@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0f72c8a-e39d-4a64-a4b2-f2e3731cfc9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2018-10-21 10-56 (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aug14/ques2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootStrapC#/Recent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootStrapC#/Recent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootStrapC#/RecentTotal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootStrapC#/images/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BootStrapC#/images/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final-javaScript-project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final-javaScript-project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FridayAug17 practice/images/bandmember.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Installpubs.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript-project-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Microsoft Edge.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/Notepad++.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/NppShell_06.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/SciLexer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/change.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/contextMenu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/functionList.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/langs.model.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/localization/english.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/notepad++.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/BaanC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/actionscript.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/batch.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/cmake.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/coffee.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/cpp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/css.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/html.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/javascript.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/lisp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/nsis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/perl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/python.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/rc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/sql.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/tex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/vb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/vhdl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/APIs/xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/Config/Hunspell/en_US.aff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/Config/Hunspell/en_US.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/DSpellCheck/DSpellCheck.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/NppConverter/NppConverter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/NppExport/NppExport.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/plugins/mimeTools/mimeTools.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/shortcuts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/stylers.model.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/uninstall.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/updater/GUP.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/updater/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/updater/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/updater/gup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Notepad++/updater/libcurl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../P11 - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SQL Server Management Studio.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SQLP-FP-v2.0 (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SW_DVD9_SQL_Svr_Standard_Edtn_2012w_SP3_64Bit_English_MLF_X20-66838.ISO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/bootst-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/bootstpractice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/building.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/chair.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/cruise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/logo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/map2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/ocean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/palnes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/tlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../boot strap/images/traveler.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c++" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../eclipse - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../error.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/circle/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/circle/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/circle/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/circle/bin/circle/circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/circle/src/circle/circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/src/java1/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../firstjava/src/java1/class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fridayassignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fridayassignment.html.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../image4 - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jason project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jason project.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logo images/travel image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logo images/travel image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logo images/travel image3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logo images/travel image4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../logo images/travel image5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../loop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/MyBlog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/app/views/posts/index.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/app/views/posts/new.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/app/views/posts/show.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyBlog/public/we.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/books/create.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/books/index.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/we.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.idea/myproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/components/addTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/container/Todolist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/container/Todolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/hoc/hoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myproject/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../object/Todolist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../object/object1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/Components/AboutMe/Navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/Components/AboutMe/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/Containers/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project-cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projectcss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prot/pro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prot/pro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prot/pro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prot/pro2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../prot/pro3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../q.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.idea/helloreact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/components/Greetings/Greeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/components/Helloworld/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/components/MyPortfolio/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/components/Portfolio.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/containers/Todolist/ToDoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../react/helloreact/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sqljdbc_7.0.0.0_enu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sqlthu.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wow/wow-animation-master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wow/wow-animation-master.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aug14/pop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aug14/pop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/Aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/Arithmatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/Mathtest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/Mathwhiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/Meetcarla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/Spelltest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/arith_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/avocado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/basketball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/carla_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/carla_kids.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/carla_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/celery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/lemonade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/onions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/owl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/owlr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/read_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/images/write_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Final-javaScript-project-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FridayAug17 practice/Websitepractice.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../FridayAug17 practice/Websitepractice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript-project-master/Mathwhiz.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaScript-project-master/Mathwhiz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/Aboutme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/Arithmatic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/Mathtest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/Mathwhiz.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/Meetcarla.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/Spelltest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/arith_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/avocado.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/basketball.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/boy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/carla_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/carla_kids.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/carla_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/celery.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/lemonade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/onions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/owl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/owlr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/read_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/images/write_button.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final javaScript project/index.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/log/" />
+    <ignored path="$PROJECT_DIR$/public/packs/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/book.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/books_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/books/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/books/create.html.erb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/schema.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/books/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/books/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20190501233914_create_books.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/books/new.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/books_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/books/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/books/index.html.erb" />
+        <option value="$PROJECT_DIR$/db/migrate/20190501233914_create_books.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/myApp.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/../MyBlog/.idea/MyBlog.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="596" />
+    <option name="y" value="92" />
+    <option name="width" value="1036" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myApp" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyBlog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Navdeep.Boparai\Desktop\myRailsProjects\myApp\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: myApp">
+    <configuration name="Development: myApp" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="myApp" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: myApp" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="myApp" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: myApp" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="myApp" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: myApp" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="myApp" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0f72c8a-e39d-4a64-a4b2-f2e3731cfc9e" name="Default Changelist" comment="" />
+      <created>1556671595251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556671595251</updated>
+      <workItem from="1556671597218" duration="519000" />
+      <workItem from="1556751780820" duration="6062000" />
+      <workItem from="1556836809608" duration="8058000" />
+      <workItem from="1556923659103" duration="5938000" />
+      <workItem from="1557182434967" duration="2463000" />
+      <workItem from="1557277538618" duration="407000" />
+      <workItem from="1557356258390" duration="3711000" />
+      <workItem from="1557446141710" duration="840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27998000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23521851" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="63" selection-start-line="3" selection-start-column="63" selection-end-line="3" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/book.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/books/create.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/books/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20190501233914_create_books.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/books/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/books/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/books_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
